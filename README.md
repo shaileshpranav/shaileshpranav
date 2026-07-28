@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there 👋 This is Shailesh</h1>
-<h3 align="center">A Computer Vision Engineer, currently working in the field of Robotics and Immersive Reality</h3>
+<h3 align="center">A GenAI & Agentic AI Engineer, building production LLM systems and RAG pipelines</h3>
 
 
-- 🔭 I’m currently working on **NeRF and 3D Imaging**
+- 🔭 I’m currently working on **agentic RAG pipelines with LangChain/LangGraph, and optimised LLM inference on AWS, Azure and GCP**
 
 - 👨‍💻 All of my projects are available at [https://shaileshpranav.github.io/](https://shaileshpranav.github.io/)
 
-- 💬 Ask me about **Computer Vision, Machine Learning, and Immersive Reality**
+- 💬 Ask me about **GenAI, Agentic AI, RAG architectures, and LLM systems in production**
 
 - 📫 Reach me at **shaileshpranav.r@gmail.com**
 
