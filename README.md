@@ -1,18 +1,51 @@
-<h1 align="center"> Hi there 👋 This is Shailesh</h1>
-<h3 align="center">A GenAI & Agentic AI Engineer, building production LLM systems and RAG pipelines</h3>
+<h1 align="center">Hi, I'm Shailesh</h1>
+<h3 align="center">GenAI and agentic AI engineer: LLM systems and production ML</h3>
 
+I build LLM applications for companies: RAG chatbots, agentic workflows with LangChain and LangGraph, real-time speech, and faster inference with TensorRT. Some of it ran on-premises, for clients with strict data-privacy requirements.
 
-- 🔭 I’m currently working on **agentic RAG pipelines with LangChain/LangGraph, and optimised LLM inference on AWS, Azure and GCP**
+I'm looking for my next GenAI or ML engineering role. Email me at shaileshpranav.r@gmail.com.
 
-- 👨‍💻 All of my projects are available at [https://shaileshpranav.github.io/](https://shaileshpranav.github.io/)
+### GenAI / ML engineer at WorldLink US (Nov 2023 – Jul 2026)
 
-- 💬 Ask me about **GenAI, Agentic AI, RAG architectures, and LLM systems in production**
+- Built agentic, tool-using RAG pipelines with LangChain and LangGraph, connected to real-time speech (Whisper for speech-to-text, MeloTTS and AzureTTS for text-to-speech), for a chatbot that handles audio, video and text.
+- Cut LLM inference latency by 30% and raised throughput by 25% with TensorRT, serving 30+ concurrent users in production.
+- Took an on-premises RAG chatbot (Milvus) from proof of concept to production. It handled 1,000+ queries a day and cut support tickets and response latency by 25–30%.
+- Built a FastAPI backend for 100,000+ documents with custom RBAC, JWT auth and PostgreSQL row-level security. Its workflow automation saved 20+ hours a week.
+- Wrote PySpark outlier detection for an agricultural equipment manufacturer's training data, which improved downstream model accuracy, and built its Databricks preprocessing pipelines.
+- Ran services on Docker and Kubernetes at 99.9% uptime, and set up CI/CD with Jenkins and GitHub Actions that cut deployment time by 40%.
 
-- 📫 Reach me at **shaileshpranav.r@gmail.com**
+### Before that: robotics
 
-<h3 align="left">Connect with me: </h3>
+I have an M.Eng. in Robotics Engineering (machine learning focus) from the University of Maryland, and did assistive-device research at NYU Tandon's Mechatronics, Control & Robotics Lab. A few projects from then:
 
-<div id="badges" align="Left">
+- [Trajectory planner](https://github.com/shaileshpranav/ENPM-690) for self-driving, using a Vision Transformer on the Lyft Level 5 dataset
+- [Human detection and tracking](https://github.com/shaileshpranav/Human_avoidance) for safer robot navigation
+- [VR escape room](https://sites.google.com/view/escaperoomdod/home) in Unity, with hand tracking
+
+More on my portfolio: [shaileshpranav.github.io](https://shaileshpranav.github.io/)
+
+### Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="TensorRT"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus"/>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS%20%7C%20Azure%20%7C%20GCP-232F3E?style=for-the-badge" alt="AWS, Azure, GCP"/>
+</p>
+
+### Elsewhere
+
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/shailesh-pranav-r/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -20,25 +53,3 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaileshpranav&show_icons=true&locale=en&layout=compact" alt="shaileshpranav"/> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaileshpranav&show_icons=true&locale=en" alt="shaileshpranav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshpranav&" alt="shaileshpranav" /></p>
-
-<!--
-**shaileshpranav/shaileshpranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
